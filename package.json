@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushadige/pcat.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "kushadige",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kushadige/pcat/issues"
+  },
+  "homepage": "https://github.com/kushadige/pcat#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
