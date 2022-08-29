@@ -130,3 +130,5 @@ dist
 .pnp.*
 
 /temp
+test.js
+mongoose.js
