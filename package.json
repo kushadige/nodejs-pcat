@@ -1,5 +1,5 @@
 {
-  "name": "pcat",
+  "name": "nodejs-pcat",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kushadige/pcat.git"
+    "url": "git+https://github.com/kushadige/nodejs-pcat.git"
   },
   "keywords": [
     "photo",
@@ -20,9 +20,9 @@
   "author": "kushadige",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kushadige/pcat/issues"
+    "url": "https://github.com/kushadige/nodejs-pcat/issues"
   },
-  "homepage": "https://github.com/kushadige/pcat#readme",
+  "homepage": "https://github.com/kushadige/nodejs-pcat#readme",
   "devDependencies": {
     "prettier": "2.7.1"
   },
@@ -30,6 +30,7 @@
     "ejs": "^3.1.8",
     "express": "^4.18.1",
     "express-fileupload": "^1.4.0",
+    "method-override": "^3.0.0",
     "mongoose": "^6.5.3",
     "nodemon": "^2.0.19"
   }
